@@ -37,11 +37,11 @@ wine_quality_dashboard/
 
 | Page | Description |
 |------|-------------|
-| 🍷 Home | Dataset overview, KPIs, correlation heatmap |
+| 🍷 Dashboard | Dataset overview, KPIs, correlation heatmap |
 | 🧪 Fixed Acidity | Distribution, central tendency, quality impact |
 | ☢️ Acidity Hub | Multi-feature acidity analysis & scatter matrix |
 | ⚠️ Sulfur & Chemicals | SO₂, density, chloride, sulphates analysis |
-| 🤖 ML Prediction | Real-time quality prediction with feature importance |
+| 🤖 Quality Prediction | Real-time quality prediction with feature importance |
 
 ## 🛠️ Technologies
 
