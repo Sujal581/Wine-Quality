@@ -6,7 +6,7 @@ An interactive Streamlit dashboard for exploring and predicting wine quality usi
 
 ```
 wine_quality_dashboard/
-├── Home.py                              # Main dashboard & overview
+├── 🍷Dashboard.py                              # Main dashboard & overview
 ├── data.py                              # Data loading & global filters
 ├── style.py                             # Futuristic dark theme & UI components
 ├── requirements.txt                     # Python dependencies
@@ -17,21 +17,6 @@ wine_quality_dashboard/
     ├── 3_⚠️_Sulfur_Chemical_Analysis.py # SO₂, density, chlorides
     └── 4_🤖_Quality_Prediction.py       # Random Forest ML prediction
 ```
-
-## 🚀 Getting Started
-
-1. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Add your dataset**  
-   Place `Wine Quality Dataset.csv` in the root folder (same level as `Home.py`).
-
-3. **Run the app**
-   ```bash
-   streamlit run Home.py
-   ```
 
 ## 📊 Pages
 
